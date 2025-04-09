@@ -6,6 +6,7 @@ Cada pasta contém exemplos e exercícios sobre um tema específico do HTML.
 ## 🧠 Objetivo
 
 Esse repositório serve como um guia de aprendizado contínuo e também como material de consulta rápida para projetos futuros.
+🔗 Repositório: [github.com/Gaabi1/HTML](https://github.com/Gaabi1/HTML)
 
 ## 📚 Recursos úteis
 
