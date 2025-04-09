@@ -1,0 +1,43 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>formulário</title>
+    </head>
+    <body>
+        <h2>Formulário</h2>
+        <!--Metodo post que o usuário envia os dados-->
+        <form style="width: 600px;" action="/pagina-processa-dados-do-form" method="post">
+            <fieldset>
+                <legend>Dados Gerais</legend>
+                <label for="Nome">Nome:</label>
+                <input type="text" minlength="3" id:"nome"/>
+                <label for="data_nascimento">Data de nascimento:</Data></label>
+                <input type="text" id="data_nascimento"/>
+                <label for="cpf"> CPF: </label>
+                <input type="cpf" minlength="11" id="cpf"/>
+            </fieldset>
+            <!--fieldset do endereço-->
+            <fieldset>
+                <legend>Endereço</legend>
+                <label for="tipo_endereço">Endereço: </label>
+                <select id="tipo_endereço" >
+                <option value="">Selecione</option>
+                <option value="">Rua</option>
+                <option value="">Estrada</option>
+                <option value="">Rodovia</option>
+                <option value="">Outros</option>
+                </select>
+            </fieldset>
+            <!--fieldset fale conosco-->
+            <fieldset>
+                <legend>Fale Conosco</legend>
+                <label for="msg">Mensagem:</label>
+                <textarea type="text" id="msg"></textarea>
+            </fieldset>
+            <fieldset>
+                <button type="submit">Enviar sua mensagem</button>
+                <button type="reset">Limpa o formulário</button>
+            </fieldset>
+        </form>
+    </body>
+</html>
