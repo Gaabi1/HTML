@@ -9,7 +9,7 @@ Esse repositório serve como um guia de aprendizado contínuo e também como mat
 🔗 Repositório: [github.com/Gaabi1/HTML](https://github.com/Gaabi1/HTML)
 
 ## 📚 Recursos úteis
-
+- [📘 Anotações Teóricas (Notion)](https://www.notion.so/HTML-16bf8212393a80afa8efe9f140c3f713?pvs=4)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
